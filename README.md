@@ -1,3 +1,3 @@
 # hello-world
 My idea pit
-# hello all.  I am working to be the best programmer I can be want to contribute along the way. Please give me pointers.#
+# hello all.  I'm working to be the best programmer I can be. Please give me pointers.#
